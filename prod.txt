@@ -11,5 +11,5 @@ VS
 
 
 
-for pulling the file
-git pull
+to reflect the changes made in the main branch of remote repo into the local 
+git pull origin main
