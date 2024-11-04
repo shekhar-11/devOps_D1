@@ -8,3 +8,7 @@ VS
 2> git config --global user.email "rajshekhar111201@gmail.com"
 3> git clone https://github.com/shekhar-11/devOps_D1.git
 4>  ls    (to check when the file was created)
+
+
+
+for pulling the file
